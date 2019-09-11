@@ -3,7 +3,7 @@
 ## What is the Problem ??
 
     With increasing urban population and hence the number of vehicles, 
-    need of controlling streets,highways and roads is major issue. 
+    need of controlling streets,highways and roads is a major issue. 
     
 One of the main reasons behind today’s traffic problem are the techniques that are used for traffic
 management. It has no emphasis on _live traffic scenario_, thus leading to inefficient traffic management systems.
